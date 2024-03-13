@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 About Me</h2>
 
-<h3>💻 Full Stack Web Developer(Angular | .NET)</h3>
+<h3>💻 Full Stack Web Developer with focus on back-end(Angular | .NET)</h3>
 <h3>💼 Intern at Techup</h3>
 
 <!--
