@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 About Me</h2>
 
-<h3>💻 Full Stack Web Developer with focus on back-end(Angular | .NET)</h3>
+<h3>💻 Full Stack Web Developer with focus on back-end (Angular | .NET)</h3>
 <h3>💼 Intern at Techup</h3>
+<h4>🔭 I’m currently working on:</h4>
+<p>🌐 Banking system</p>
+<p>☁ Azure severless</p>
+<p>⌨ .NET</p>
 
 <!--
 **Ljupchecas/Ljupchecas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
