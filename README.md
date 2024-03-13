@@ -10,6 +10,7 @@
   <li>🌐 Banking system</li>
   <li>☁ Azure serverless</li>
   <li>⌨ .NET</li>
+  <li>✈ Entity Framework</li>
 </ul>
 
 <h4>🌱 I’m currently learning:</h4>
@@ -23,6 +24,7 @@
   <li>🌐 RESTful APIs</li>
   <li>🏗️ Architectures & Design Patterns</li>
   <li>📊 SQL Server</li>
+  <li>✈ Entity Framework</li>
 </ul>
 
 <h4>🕶 In my free time:</h4>
