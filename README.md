@@ -1,6 +1,10 @@
 <h1>Hi there 🙋‍♂️</h1>
 
-<h3>👨‍💻 About Me</h3>
+<h2>👨‍💻 About Me</h2>
+
+<h3>💻 Full Stack Web Developer(Angular | .NET)</h3>
+<h3>💼 Intern at Techup</h3>
+
 <!--
 **Ljupchecas/Ljupchecas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
