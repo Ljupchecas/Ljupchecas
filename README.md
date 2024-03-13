@@ -17,6 +17,22 @@
   <li>Angular</li>
 </ul>
 
+<h4>💬 Ask me about:</h4>
+<ul>
+  <li>💻 .NET</li>
+  <li>🌐 RESTful APIs</li>
+  <li>🏗️ Architectures & Design Patterns</li>
+  <li>📊 SQL Server</li>
+</ul>
+
+<h4>🕶 In my free time:</h4>
+<ul>
+  <li>👨‍👩‍👦 Family time</li>
+  <li>🌍 Traveling</li>
+  <li>📚 Reading books</li>
+  <li>🥇 Playing sport</li>
+</ul>
+
 
 <!--
 **Ljupchecas/Ljupchecas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
