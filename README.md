@@ -2,31 +2,18 @@
 
 ## 👨‍💻 About Me
 
-### 💻 Full Stack Web Developer with a focus on back-end (Angular | .NET)
+|           |                                    |
+|-----------|------------------------------------|
+| 🖼️ Avatar | <img src="https://github.com/Ljupchecas/Ljupchecas/blob/main/Ljubomir.jpg" alt="me" width="40"> |
+| 💼 Title  | Full Stack Web Developer           |
+| 💻 Focus  | Back-end (Angular | .NET)          |
+| 💼 Intern | Techup                             |
+| 🔭 Working On | Banking system <br> Azure serverless <br> .NET <br> Entity Framework |
+| 🌱 Learning | Angular                            |
+| 💬 Ask Me About | .NET <br> RESTful APIs <br> Architectures & Design Patterns <br> SQL Server <br> Entity Framework |
+| 🕶️ Free Time | Family time <br> Traveling <br> Reading books <br> Playing sports |
 
-### 💼 Intern at Techup
 
-#### 🔭 Currently Working On:
-- 🌐 Banking system
-- ☁ Azure serverless
-- ⌨ .NET
-- ✈ Entity Framework
-
-#### 🌱 Currently Learning:
-- Angular
-
-#### 💬 Ask Me About:
-- 💻 .NET
-- 🌐 RESTful APIs
-- 🏗️ Architectures & Design Patterns
-- 📊 SQL Server
-- ✈ Entity Framework
-
-#### 🕶 In My Free Time:
-- 👨‍👩‍👦 Family time
-- 🌍 Traveling
-- 📚 Reading books
-- 🥇 Playing sports
 
 
 
