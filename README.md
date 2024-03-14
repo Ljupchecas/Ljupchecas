@@ -1,6 +1,4 @@
-<img src="https://github.com/Ljupchecas/Ljupchecas/blob/main/Ljubomir.jpg" alt="me" width="200">
-
-# Hi there 🙋‍♂️
+# Hi there 🙋‍♂️ <img src="https://github.com/Ljupchecas/Ljupchecas/blob/main/Ljubomir.jpg" alt="me" width="200" style="border-radius: 50%;">
 
 ## 👨‍💻 About Me
 
