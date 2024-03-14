@@ -1,3 +1,5 @@
+![me](https://github.com/Ljupchecas/Ljupchecas/blob/main/Ljubomir.jpg)
+
 # Hi there 🙋‍♂️
 
 ## 👨‍💻 About Me
