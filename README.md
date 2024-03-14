@@ -1,4 +1,4 @@
-![me](https://github.com/Ljupchecas/Ljupchecas/blob/main/Ljubomir.jpg)
+<img src="https://github.com/Ljupchecas/Ljupchecas/blob/main/Ljubomir.jpg" alt="me" width="200">
 
 # Hi there 🙋‍♂️
 
