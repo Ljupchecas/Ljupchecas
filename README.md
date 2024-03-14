@@ -1,39 +1,33 @@
-<h1>Hi there 🙋‍♂️</h1>
+# Hi there 🙋‍♂️
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<h3>💻 Full Stack Web Developer with focus on back-end (Angular | .NET)</h3>
+### 💻 Full Stack Web Developer with a focus on back-end (Angular | .NET)
 
-<h3>💼 Intern at Techup</h3>
-<h4>🔭 I’m currently working on:</h4>
-<ul>
-  <li>🌐 Banking system</li>
-  <li>☁ Azure serverless</li>
-  <li>⌨ .NET</li>
-  <li>✈ Entity Framework</li>
-</ul>
+### 💼 Intern at Techup
 
-<h4>🌱 I’m currently learning:</h4>
-<ul>
-  <li>Angular</li>
-</ul>
+#### 🔭 Currently Working On:
+- 🌐 Banking system
+- ☁ Azure serverless
+- ⌨ .NET
+- ✈ Entity Framework
 
-<h4>💬 Ask me about:</h4>
-<ul>
-  <li>💻 .NET</li>
-  <li>🌐 RESTful APIs</li>
-  <li>🏗️ Architectures & Design Patterns</li>
-  <li>📊 SQL Server</li>
-  <li>✈ Entity Framework</li>
-</ul>
+#### 🌱 Currently Learning:
+- Angular
 
-<h4>🕶 In my free time:</h4>
-<ul>
-  <li>👨‍👩‍👦 Family time</li>
-  <li>🌍 Traveling</li>
-  <li>📚 Reading books</li>
-  <li>🥇 Playing sport</li>
-</ul>
+#### 💬 Ask Me About:
+- 💻 .NET
+- 🌐 RESTful APIs
+- 🏗️ Architectures & Design Patterns
+- 📊 SQL Server
+- ✈ Entity Framework
+
+#### 🕶 In My Free Time:
+- 👨‍👩‍👦 Family time
+- 🌍 Traveling
+- 📚 Reading books
+- 🥇 Playing sports
+
 
 
 <!--
