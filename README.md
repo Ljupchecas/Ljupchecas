@@ -1,4 +1,4 @@
-# Hi there 🙋‍♂️ ![me](https://github.com/Ljupchecas/Ljupchecas/blob/main/Ljubomir.jpg){: .rounded-circle width="200"}
+# Hi there 🙋‍♂️ <img src="https://github.com/Ljupchecas/Ljupchecas/blob/main/Ljubomir.jpg" alt="me" width="200";">
 
 ## 👨‍💻 About Me
 
