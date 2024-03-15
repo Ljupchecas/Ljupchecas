@@ -28,6 +28,11 @@
 - 📚 Reading books
 - 🥇 Playing sports
 
+#### 🎯 Projects:
+
+Projects Developed While Learning:
+--------------------------------------------------------
+
 | Project               | Description                                                                                                             |
 |-----------------------|------------------------------------------------------------------------------------------------------------------------|
 | UserApp.API           | Crafted a Web API tailored specifically for user-related functionalities.                                               |
@@ -37,6 +42,7 @@
 | OrderingApp.CSharp    | OrderingApp is a console application in C# created as part of learning the programming language.                         |
 | CountrySearchApp.JS   | CountrySearch is a basic application in JS created as part of learning the programming language.                         |
 | PizzaApp.MVC          | Engineered an MVC-based pizza application, streamlining the ordering process and enhancing user experience by implementing robust model-view-controller architecture. |
+
 
 
 
