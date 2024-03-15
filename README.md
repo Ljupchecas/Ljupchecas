@@ -30,12 +30,18 @@
 
 #### 🎯 Projects:
 
-Projects Developed While Learning:
+Projects developed after completing the studies
+--------------------------------------------------------
+
+| Project               | Description                                                                                                            |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------|
+| UserApp.API           | Crafted a Web API tailored specifically for user-related functionalities.                                              |
+
+Projects developed while learning:
 --------------------------------------------------------
 
 | Project               | Description                                                                                                             |
 |-----------------------|------------------------------------------------------------------------------------------------------------------------|
-| UserApp.API           | Crafted a Web API tailored specifically for user-related functionalities.                                               |
 | MovieApp.API          | Developed a robust Web API for movie-related functionalities, facilitating seamless access to movie data and management within web applications. |
 | NotesAndTagsApp.API   | Designed and developed a versatile notes and tags application, enabling users to efficiently organize and manage their information with ease. |
 | TaxiManager.CSharp    | TaxiManager is a console application in C# created as part of learning the programming language.                         |
