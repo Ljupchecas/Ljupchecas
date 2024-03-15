@@ -28,6 +28,16 @@
 - 📚 Reading books
 - 🥇 Playing sports
 
+| Project               | Description                                                                                                             |
+|-----------------------|------------------------------------------------------------------------------------------------------------------------|
+| UserApp.API           | Crafted a Web API tailored specifically for user-related functionalities.                                               |
+| MovieApp.API          | Developed a robust Web API for movie-related functionalities, facilitating seamless access to movie data and management within web applications. |
+| NotesAndTagsApp.API   | Designed and developed a versatile notes and tags application, enabling users to efficiently organize and manage their information with ease. |
+| TaxiManager.CSharp    | TaxiManager is a console application in C# created as part of learning the programming language.                         |
+| OrderingApp.CSharp    | OrderingApp is a console application in C# created as part of learning the programming language.                         |
+| CountrySearchApp.JS   | CountrySearch is a basic application in JS created as part of learning the programming language.                         |
+| PizzaApp.MVC          | Engineered an MVC-based pizza application, streamlining the ordering process and enhancing user experience by implementing robust model-view-controller architecture. |
+
 
 
 
