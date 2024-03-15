@@ -28,9 +28,14 @@
 - 📚 Reading books
 - 🥇 Playing sports
 
+#### 📫 How to reach me:
+- LinkedIn : https://www.linkedin.com/in/ljubomir-joldashev/
+- Yahoo: Ljupchejoldashev@yahoo.com
+- Gmai: Ljubomir.Joldashev@gmail.com
+
 #### 🎯 Projects:
 
-Projects developed after completing the studies
+Projects developed after completing the studies:
 --------------------------------------------------------
 
 | Project               | Description                                                                                                            |
