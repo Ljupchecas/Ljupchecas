@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Web Developer with a focus on back-end (Angular | .NET)
 
-### 💼 Intern at Techup
+### 💼 .NET Developer at Techup
 
 #### 🔭 Currently Working On:
 - 🌐 Banking system
